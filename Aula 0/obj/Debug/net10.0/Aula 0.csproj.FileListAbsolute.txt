@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\bin\Debug\net10.0\Aula 0.exe
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\bin\Debug\net10.0\Aula 0.deps.json
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\bin\Debug\net10.0\Aula 0.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\bin\Debug\net10.0\Aula 0.dll
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\bin\Debug\net10.0\Aula 0.pdb
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.dll
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\refint\Aula 0.dll
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.pdb
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\Aula 0.genruntimeconfig.cache
+C:\Users\gabri\Documents\Projetos.NET\Curso.NET\Aula 0\obj\Debug\net10.0\ref\Aula 0.dll
