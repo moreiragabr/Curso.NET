@@ -37,7 +37,5 @@ public class Program()
         }
 
         Console.WriteLine("\n" + result + "\n");
-
-
     }
 }
