@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj": {}
+    "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj": {
+    "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj",
         "projectName": "Aula 17",
-        "projectPath": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj",
+        "projectPath": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\Aula 17.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 17\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
