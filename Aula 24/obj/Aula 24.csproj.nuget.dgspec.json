@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 23\\Aula 23.csproj": {}
+    "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 24\\Aula 24.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 23\\Aula 23.csproj": {
+    "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 24\\Aula 24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 23\\Aula 23.csproj",
-        "projectName": "Aula 23",
-        "projectPath": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 23\\Aula 23.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 24\\Aula 24.csproj",
+        "projectName": "Aula 24",
+        "projectPath": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 24\\Aula 24.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 23\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Documents\\Projetos.NET\\Curso.NET\\Aula 24\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
