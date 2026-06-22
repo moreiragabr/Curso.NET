@@ -2,8 +2,8 @@
 
 public class Car
 {
-    public string color;
-    public int year;
-    public string model;
-    public string brand;
+    public string Color;
+    public int Year;
+    public string Model;
+    public string Brand;
 }
